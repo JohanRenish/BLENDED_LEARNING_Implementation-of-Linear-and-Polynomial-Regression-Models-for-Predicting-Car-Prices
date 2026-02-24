@@ -10,13 +10,21 @@ To write a program to predict car prices using Linear Regression and Polynomial 
 
 ## Algorithm
 1. Start the program.
+
 2.Import required libraries.
+
 3.Load the car price dataset.
+
 4.Select input features and target variable.
+
 5.Split data into training and testing sets.
+
 6.Train the Linear Regression model.
+
 7.Train the Polynomial Regression model.
+
 8.Predict prices and evaluate performance.
+
 9.Display results and stop the program.
 ## Program:
 ```
